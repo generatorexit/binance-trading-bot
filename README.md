@@ -1,7 +1,7 @@
 # binance-trading-bot
 This bot trades automatically in Binance when you can make profit and gives you information related to your trades from Telegram.
 
-![alt text](https://github.com/generatorexit/macchanger-gui/blob/main/img.png)
+![alt text](https://github.com/generatorexit/binance-trading-bot/blob/main/img.png)
 
 ---
 
